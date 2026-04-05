@@ -9,5 +9,6 @@ public class LoginPageUsingMvcApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(LoginPageUsingMvcApplication.class, args);
 	}
+	
 
 }
